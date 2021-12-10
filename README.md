@@ -18,20 +18,10 @@
 <h3 align="left">🟢YOU CAN FIND ME HERE🤩👇</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prit-manvar-36ab97204/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="55" /></a>
+<a href="https://www.linkedin.com/in/raviraval103/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="55" /></a>
 <a href="https://github.com/pritmanvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/prit_manvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
 <a href="https://www.youtube.com/channel/UCOQVrFz2DTY6PewABNS4wHA" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/Youtube.png" alt="YouTube" height="30" width="50" /></a>
 </p>
 
 <h2></h2>
-<h3 align="left"> 🔵 Github Status  <h3>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pritmanvar&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritmanvar&theme=radical&show_icons=true" />
-</div>
-  <h2></h2>
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=pritmanvar&theme=react-dark&hide_border=true)
-<br>
