@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Coding%20_Monochromatic.svg">
 
 <h3 align = "left">🟠 About me<br><br>
-💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
+💻 Software Developer. <br>🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
 <h2></h2>
 <h3 align="left">🔴 Languages and Tools:</h3>
 <p align="left"> 
