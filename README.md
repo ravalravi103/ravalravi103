@@ -19,7 +19,7 @@
 
 <p align="left" style="display:flex;">
 <a href="https://www.linkedin.com/in/raviraval103/" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/linkedIn.png" alt="LinkedIn" height="30" width="55" /></a>
-<a href="https://www.youtube.com/channel/UCOQVrFz2DTY6PewABNS4wHA" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
+<a href="https://www.youtube.com/c/XplosiveWebTech" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
 
 </p>
 
