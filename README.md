@@ -1,44 +1,40 @@
-<h2 align="center">Hi there, I'm Ravi Raval - [Companywebsite] 👋</h2>
+<h1 align="center">Hi 👋, I'm Ravi Raval</h1>
+<img src="https://badges.pufler.dev/visits/pritmanvar/pritmanvar" alt="number of visits">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
-## I'm a Software Developer, !!
+<h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
+--> Web Developer. <br> --> DSA Enthusiast <br> --> Always ready to learn 🌈<br> --> Like to travel ✈<br></h3>
+<h2></h2>
+<h3 align="left">🔴Languages and Tools:</h3>
+<p align="left"> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c++.png?raw=true" alt="cplusplus" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/HTML.png?raw=true" alt="HTML" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/CSS.png?raw=true" alt="CSS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/JS.png?raw=true" alt="JS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code>
+</p>
 
-- 📚 M.Sc Computer Science
-- 💻 Software Developer, Desktop Application Developer
-- 👨 Freelance Web Developer-Designer
-- 🖥️ MERA stack enthusiast
-- ⚡ Let's Talk about Javascript, Typescript, React Js, Electronjs,Aws, Wordpress
+<h2></h2>
+<h3 align="left">🟢YOU CAN FIND ME HERE🤩👇</h3>
 
-### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/prit-manvar-36ab97204/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="55" /></a>
+<a href="https://github.com/pritmanvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/prit_manvar" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
+<a href="https://www.youtube.com/channel/UCOQVrFz2DTY6PewABNS4wHA" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/Youtube.png" alt="YouTube" height="30" width="50" /></a>
+</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" style="color:#ffff" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[youtube]
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<h2></h2>
+<h3 align="left"> 🔵 Github Status  <h3>
 
-<br />
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pritmanvar&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritmanvar&theme=radical&show_icons=true" />
+</div>
+  <h2></h2>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-[website]: https://ravalravi.com
-[youtube]: https://www.youtube.com/c/XplosiveWebTech
-[linkedin]: https://www.linkedin.com/in/raviraval103/
-[companywebsite]: https://www.libratherm.com/
+![github graph](https://activity-graph.herokuapp.com/graph?username=pritmanvar&theme=react-dark&hide_border=true)
+<br>
