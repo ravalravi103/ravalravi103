@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravi Raval</h1>
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
+<img align="right" alt="Coding" width="450" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Coding%20_Monochromatic.svg">
 
 <h3 align = "left">🟠.<br><br>
---> 💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Lets Talk About Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
+💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Lets Talk About Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
