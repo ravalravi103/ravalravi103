@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Coding%20_Monochromatic.svg">
 
 <h3 align = "left">🟠 About me<br><br>
-💻 Software Developer. <br>🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
+💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
 <h2></h2>
 <h3 align="left">🔴 Languages and Tools:</h3>
 <p align="left"> 
@@ -20,7 +20,7 @@
 <p align="left" style="display:flex;">
 <a href="https://www.linkedin.com/in/raviraval103/" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/linkedIn.png" alt="LinkedIn" height="30" width="55" /></a>
 <a href="https://www.youtube.com/c/XplosiveWebTech" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
-<a href="https://ravalravi.com" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
+<a href="https://ravalravi.com" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/download.jpg" alt="YouTube" height="30" width="50" /></a>
 
 </p>
 
