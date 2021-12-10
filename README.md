@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravi Raval</h1>
-<img src="https://badges.pufler.dev/visits/pritmanvar/pritmanvar" alt="number of visits">
+<img src="https://ravalravi.com" alt="number of visits">
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
-<h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
+<h3 align = "left">🟠.<br><br>
 --> Web Developer. <br> --> DSA Enthusiast <br> --> Always ready to learn 🌈<br> --> Like to travel ✈<br></h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
-<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
-<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c++.png?raw=true" alt="cplusplus" width="40" height="40"/></code> 
-<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
-<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/HTML.png?raw=true" alt="HTML" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/CSS.png?raw=true" alt="CSS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/JS.png?raw=true" alt="JS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/HTML.png" alt="HTML" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/CSS.png" alt="CSS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/JS.png" alt="CSS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/react.jpg" alt="JS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/electron.png" alt="github" width="40" height="40"/></code>
 </p>
 
 <h2></h2>
