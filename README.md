@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravi Raval</h1>
 <img align="right" alt="Coding" width="450" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Coding%20_Monochromatic.svg">
 
-<h3 align = "left">🟠.<br><br>
-💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡 Lets Talk About Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
+<h3 align = "left">🟠About me<br><br>
+💻 Software Developer. <br> 🙍‍♂️ Freelance Web Developer-Designer  <br> 💻 MERN Stack Enthusiastic <br> 💡Javascript, Typescript,Reactjs,Aws,Wordpress<br></h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
@@ -17,9 +17,8 @@
 <h2></h2>
 <h3 align="left">🟢YOU CAN FIND ME HERE🤩👇</h3>
 
-<p align="left">
+<p align="left" style="display:flex">
 <a href="https://www.linkedin.com/in/raviraval103/" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/linkedIn.png" alt="LinkedIn" height="30" width="55" /></a>
-
 <a href="https://www.youtube.com/channel/UCOQVrFz2DTY6PewABNS4wHA" target="blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
 
 </p>
