@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ravi Raval</h1>
-<img align="right" alt="Coding" width="450" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Coding%20_Monochromatic.svg">
+# Hi, I'm Ravi Raval! 👋
 
-<h3 align = "left">🟠 About me<br><br>
-💻 Software  Enginner <br> 🙍‍♂️  React + Node + MongoDB + Express (MERN) <br> 💻 AWS Enthusiastic <br> 💡 ElectronJs, MIcroServices, Monolatic, Serverlesss,<br></h3>
-<h2></h2>
-<h3 align="left">🔴 Languages and Tools:</h3>
-<p align="left"> 
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/HTML.png" alt="HTML" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/CSS.png" alt="CSS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/JS.png" alt="CSS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/typescript.png" alt="CSS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/react.jpg" alt="JS" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/electron.png" alt="github" width="40" height="40"/></code>
-</p>
+## 🚀 About Me
+I'm a full stack developer...
 
-<h2></h2>
-<h3 align="left">🟢 YOU CAN FIND ME HERE🤩👇</h3>
 
-<p align="left" style="display:flex;">
-<a href="https://www.linkedin.com/in/raviraval103/" target="_blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/linkedIn.png" alt="LinkedIn" height="30" width="55" /></a>
-<a href="https://www.youtube.com/c/XplosiveWebTech" target="_blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/Youtube.png" alt="YouTube" height="30" width="50" /></a>
-<a href="https://ravalravi.com" target="_blank"><img align="center" src="https://github.com/ravalravi103/ravalravi103/blob/main/techimage/download.jpg" alt="YouTube" height="40" width="40" /></a>
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working As a Fullstack developer and Team Lead. 
 
-</p>
+🧠 I'm currently Preparing for AWS Professional Certification...
 
-<h2></h2>
+👯‍♀️ I'm looking to collaborate on for React, Node, Next, Nest, MongoDB, postgreSQL
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/raviraval103/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviraval103/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/raviraval103/)
+
+
+## 🛠 Skills
+React, Node, Next, Nest, MongoDB, PostgreSQL 
